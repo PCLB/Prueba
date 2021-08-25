@@ -1,2 +1,2 @@
 # Prueba
-Repositorio de prueba del canal
+Repositorio de prueba del canal de Pensando con la boca
